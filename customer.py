@@ -369,8 +369,9 @@ class Customer:
                     self.pos = new_pos # 位置を更新
                     collided_with_line = True
                     break
-
+いいいいいい
         if not collided_with_line:
             self.pos = new_pos
             
         return True
+あああああああ
