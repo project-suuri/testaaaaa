@@ -372,6 +372,6 @@ class Customer:
 いいいいいい
         if not collided_with_line:
             self.pos = new_pos
-            
+            eeeeeeeeeeeeeeeeeee
         return True
 あああああああ
